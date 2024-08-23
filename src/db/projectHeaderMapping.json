@@ -1,0 +1,7 @@
+{
+    "AT_CAB_PROYECTOS_TBL": "projectHeader",
+    "AT_GASTOS_PROYECTO_TBL": "projectExpenses",
+    "AT_HORAS_PROYECTO_TBL": "projectHours",
+    "AT_MATERIALES_PROYECTO_TBL": "projectMaterials",
+    "AT_SUBCONT_PROYECTO_TBL": "projectSubconts"
+}

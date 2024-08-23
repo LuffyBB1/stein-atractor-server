@@ -1,0 +1,51 @@
+{
+  "AT_CAB_PROYECTOS_TBL": {
+    "DESPROY": "desProy",
+    "FECHA_INICIO": "fechaInicio",
+    "FECHA_FIN": "fechaFin",
+    "CODCLI": "codCli",
+    "CODOPE": "codOpe",
+    "ESTADO": "estado",
+    "FECHA_ESTADO": "fechaEstado",
+    "DOMICILIO": "domicilio",
+    "POBLACION": "poblacion",
+    "PROVINCIA": "provincia",
+    "CODPAG": "codPage",
+    "CODAGENTE": "codAgente",
+    "CODTIPOPRE": "codTipoPre",
+    "CODTAR": "codTar",
+    "CODNA": "codAna",
+    "CODSERIE": "codSerie",
+    "NUMPROY_PADRE": "numProyPadre"
+  },
+  "AT_GASTOS_PROYECTO_TBL": {
+    "CODGAS": "codGas",
+    "DESGAS": "desGas",
+    "IMPORTE": "importe",
+    "LINEA": "linea"
+  },
+  "AT_HORAS_PROYECTO_TBL": {
+    "LINEA": "linea",
+    "CODCAT": "codCat",
+    "CODHOR": "codHor",
+    "CANTIDAD": "cantidad",
+    "PRECIO": "precio"
+  },
+  "AT_MATERIALES_PROYECTO_TBL": {
+    "LINEA": "linea",
+    "CODART": "codArt",
+    "DESART": "desArt",
+    "CANTIDAD": "cantidad",
+    "PRECIO": "precio",
+    "LINEA_PPI": "lineaPpi",
+    "LINEA_PPI_OP": "lineaPpiOp",
+    "DESPPI": "desPpi",
+    "DESPPI_OP": "desPpiOp" 
+  },
+  "AT_SUBCONT_PROYECTO_TBL": {
+    "LINEA": "linea",
+    "CODPRO": "codPro",
+    "CONCEPTO": "concepto",
+    "PRECIO": "precio"
+  }
+}

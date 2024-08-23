@@ -1,0 +1,114 @@
+{
+  "projectHeader": {
+    "NUMPROY": "COPG000203",
+    "DESPROY": "PG I 3,2 TNS LUZ: 9,3 MTS",
+    "FECHA_INICIO": "2006-04-10T22:00:00.000Z",
+    "FECHA_FIN": null,
+    "CODCLI": "43000002856",
+    "CODOPE": "47",
+    "DIRECTORIO_DOCUMENTACION": null,
+    "ESTADO": 20,
+    "FECHA_ESTADO": "2006-08-30T22:00:00.000Z",
+    "DOMICILIO": "PI PELAGATOS C/ LA UNION 33",
+    "POBLACION": "CHICLANA",
+    "PROVINCIA": "CADIZ",
+    "CP": "11130",
+    "TELEFONO1": "956406635",
+    "TELEFONO2": null,
+    "FAX": "956406340",
+    "CODPAG": null,
+    "CODAGE": "06",
+    "CODTAR": null,
+    "CODTIPOPRE": "24",
+    "OBSERVACIONES": null,
+    "PORC_RETENCION": 0,
+    "CODANA": "CO000000001",
+    "NUMPROP": null,
+    "CODSERIE": null,
+    "PROCESO": "PROYECTOS",
+    "SUBESTADO": 0,
+    "NUMPROY_PADRE": null
+  },
+  "projectExpenses": [
+    {
+      "CODGAS": "15",
+      "DESGAS": "TRANSPORTE",
+      "IMPORTE": 685,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null,
+      "DESPPI": null,
+      "DESPPI_OP": null,
+      "LINEA": 530,
+      "CANTIDAD": 0,
+      "PRECIO": 0
+    },
+    {
+      "LINEA": 1,
+      "CODCAT": "001",
+      "CODHOR": "01",
+      "CANTIDAD": 1,
+      "PRECIO": 1000,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null
+    }
+  ],
+  "projectHours": [],
+  "projectMaterials": [
+    {
+      "LINEA": 1,
+      "CODART": "CL0000000061",
+      "DESART": "CARRO TOMAC. DOBLE VAHLE DKSW4/80S-5-(NUEVA)",
+      "CANTIDAD": 1,
+      "PRECIO": 70.72,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null,
+      "DESPPI": null,
+      "DESPPI_OP": null
+    },
+    {
+      "LINEA": 2,
+      "CODART": "LN0000000046",
+      "DESART": "CONDUCCION VAHLE KBHF4/40 (40 AMP.)-NUEVA",
+      "CANTIDAD": 40,
+      "PRECIO": 8.41,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null,
+      "DESPPI": null,
+      "DESPPI_OP": null
+    },
+    {
+      "LINEA": 3,
+      "CODART": "HI0000000109",
+      "DESART": "VIGA PARA PUENTE GRUA ESTINDEL",
+      "CANTIDAD": 1,
+      "PRECIO": 1230,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null,
+      "DESPPI": null,
+      "DESPPI_OP": null
+    },
+    {
+      "LINEA": 4,
+      "CODART": "SWF000000113",
+      "DESART": "KIT DE POLIPASTO SWF",
+      "CANTIDAD": 1,
+      "PRECIO": 7496,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null,
+      "DESPPI": null,
+      "DESPPI_OP": null
+    },
+    {
+      "LINEA": 5,
+      "CODART": "PM0000000043",
+      "DESART": "PEGATINAS VARIAS PUENTES GRUAS",
+      "CANTIDAD": 1,
+      "PRECIO": 100,
+      "LINEA_PPI": null,
+      "LINEA_PPI_OP": null,
+      "DESPPI": null,
+      "DESPPI_OP": null
+    }
+  ],
+  "projectSubconst": []
+}
